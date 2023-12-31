@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "905268420062",
+    "project_id": "chatscreen-a193d",
+    "storage_bucket": "chatscreen-a193d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905268420062:android:7701de12094accc09f914f",
+        "android_client_info": {
+          "package_name": "com.chat.chatscreen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMkdWzbng2nOKHvCnUqBPx_sbwB_cJcWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
